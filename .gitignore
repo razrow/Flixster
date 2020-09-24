@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="androidx.core.content.res.FontResourcesParserCompat.FetchStrategy">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="
+# Project exclude paths
+/.gradle/
