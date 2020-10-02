@@ -25,7 +25,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-One challenge I had was with the api. It seemed to not work with API30 so I had to switch to API28.
+Honestly, I was a bit disappointed this week. After the feedback I received on the last one I really wanted to go above and beyong andd accomplish some of these stories. Unfortuantely, I hit a big issue and got stuck for a bit more than a day. In the future, I think I should've perhaps reached out for help sooner. Once I posted on the discussions, I was able to get help and fix my issue within an hour. Hopefully my twitter app will be a bit better.
 
 ## License
 
